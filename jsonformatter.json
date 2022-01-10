@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "name": "Fatima",
+  "departament": "Python",
+  "poolNum": 15,
+  "university": "AIU",
+  "hobbies": [
+    "coding",
+    "reading",
+    "dance",
+    "sing"
+  ],
+  "friends": [
+    {
+      "name": "Natalia",
+      "isProgrammer": true,
+      "field": "Android"
+    },
+    {
+      "name": "Mirkhad",
+      "isProgrammer": true,
+      "field": "Python"
+    }
+  ]
+}
